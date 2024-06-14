@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anjelly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2074f016fe9cef5d29fab56e6b2672e32e2d1db5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a7c6e88ec7ba0caa4227102378e6621a01882f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anjelly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anjelly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
